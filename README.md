@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LYB4
-- 👀 I’m interested in your mother
-- 🌱 I’m currently doing your mother
-- 💞️ I’m looking to collaborate on ... nothing rn
-- 📫 How to reach me ...dont!!
+its me! lyb. Real. Yeah
+im   Rewriting this like come on the old one was so bad
 
 <!---
 LYB4/LYB4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
